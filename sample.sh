@@ -1,3 +1,2 @@
 shell script file is created
 updated file
-we are updating this file...
